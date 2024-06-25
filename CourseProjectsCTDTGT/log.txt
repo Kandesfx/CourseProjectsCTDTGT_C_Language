@@ -1,0 +1,12 @@
+12/05/2024 18:09 || ID: TNV0139 || Thuoc tinh cap nhat: Ho || Le Xuan -> Nguyen Van
+12/05/2024 18:10 || ID: TNV0139 || Thuoc tinh cap nhat: Ten || Dao -> Luan
+17/05/2024 03:31 || ID: TNV0134 || Thuoc tinh cap nhat: Ngay thang nam sinh || 12/12/2005 -> 15/03/2004
+17/05/2024 03:33 || ID: TNV0020 || Thuoc tinh cap nhat: So dien thoai || 0991234567 -> 0345765692
+17/05/2024 03:34 || ID: TNV0005 || Thuoc tinh cap nhat: Ma chien dich || CD005 -> CD001
+17/05/2024 03:35 || ID: TNV0007 || Thuoc tinh cap nhat: Ma chien dich || CD007 -> CD007
+20/05/2024 22:59 || ID: TNV0065 || Thuoc tinh cap nhat: Ngay thang nam sinh || 13/09/2003 -> 23/05/2006
+20/05/2024 23:01 || ID: TNV0076 || Thuoc tinh cap nhat: Ma chien dich || CD006 -> CD005
+20/05/2024 23:02 || ID: TNV0143 || Thuoc tinh cap nhat: So dien thoai || 0909333709 -> 0345765692
+20/05/2024 23:03 || ID: TNV0049 || Thuoc tinh cap nhat: Ho || Tran Tuyet -> Tran Tuyet
+20/05/2024 23:03 || ID: TNV0049 || Thuoc tinh cap nhat: Ten || Nga -> Trinh
+20/05/2024 23:05 || ID: TNV0085 || Thuoc tinh cap nhat: Ma chien dich || CD005 -> CD004
